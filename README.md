@@ -1,6 +1,6 @@
 # onboardingui
 
-Projeto de Onboarding UI desenvolvido em Flutter. A ideia desse projeto, é entender e praticar algumas funcionalidades disponibilizadas para o desenvolvimento de aplicativos móveis. Esse projeto é focado na parde de Onboarding entre páginas.
+Projeto de Onboarding UI desenvolvido em Flutter. A ideia desse projeto, é entender e praticar algumas funcionalidades disponibilizadas para o desenvolvimento de aplicativos móveis. Esse projeto é focado na parte de Onboarding entre páginas.
 
 O projeto foi desenvolvido seguindo a proposta inicial sugerida pelo vídeo abaixo:
 
