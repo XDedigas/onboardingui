@@ -63,7 +63,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                   alignment: Alignment.centerRight,
                   child: TextButton(
                     // ignore: avoid_print
-                    onPressed: () => print('Pular'),
+                    onPressed: () {
+                      _pageController.jumpToPage(2);
+                    },
                     child: const Text(
                       'Pular',
                       style: TextStyle(
